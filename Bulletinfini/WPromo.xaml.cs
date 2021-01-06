@@ -10,21 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MahApps.Metro.Controls;
 namespace Bulletinfini
 {
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour WPromo.xaml
     /// </summary>
-    public partial class MainWindow : MetroWindow
+    public partial class WPromo : MetroWindow
     {
-        public MainWindow()
+        public WPromo()
         {
             InitializeComponent();
-            WPromo a = new WPromo();
-            a.Show();
         }
     }
 }
