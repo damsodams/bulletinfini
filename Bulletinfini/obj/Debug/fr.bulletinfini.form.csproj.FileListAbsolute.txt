@@ -81,3 +81,7 @@ C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\fr.bulletinfini.form.csproj.C
 C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\Bulletinfini.exe
 C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\Bulletinfini.pdb
 >>>>>>> master
+C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\WPromo.baml
+C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\WPromo.g.cs
+C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\WMatiere.baml
+C:\laragon\www\bulletinfini\bulletinfini\obj\Debug\WMatiere.g.cs
