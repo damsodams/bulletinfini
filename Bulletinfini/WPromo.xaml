@@ -26,6 +26,6 @@
             <Image Source="home.png" Stretch="Uniform"></Image>
         </Button>
         <Button Grid.Column="1" Grid.Row="1">Ajouter une promotion</Button>
-        
+        <DataGrid Grid.Row="2" Grid.Column="1"></DataGrid>
     </Grid>
 </mah:MetroWindow>
