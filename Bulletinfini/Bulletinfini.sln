@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fr.bulletinfini.form", "fr.bulletinfini.form.csproj", "{4DBAC861-E139-4914-9E9E-AEA1549E94DE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{939C1962-B915-46CA-A371-A1B7282EC5F2} = {939C1962-B915-46CA-A371-A1B7282EC5F2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fr.bulletinfini.metier", "..\fr.bulletinfini.metier\fr.bulletinfini.metier.csproj", "{939C1962-B915-46CA-A371-A1B7282EC5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBAC861-E139-4914-9E9E-AEA1549E94DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBAC861-E139-4914-9E9E-AEA1549E94DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBAC861-E139-4914-9E9E-AEA1549E94DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBAC861-E139-4914-9E9E-AEA1549E94DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939C1962-B915-46CA-A371-A1B7282EC5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939C1962-B915-46CA-A371-A1B7282EC5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939C1962-B915-46CA-A371-A1B7282EC5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939C1962-B915-46CA-A371-A1B7282EC5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7AA2B4-D7B7-4D2F-A485-B5A2CE494648}
+	EndGlobalSection
+EndGlobal
