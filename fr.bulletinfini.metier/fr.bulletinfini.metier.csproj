@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4DBAC861-E139-4914-9E9E-AEA1549E94DE}</ProjectGuid>
+    <ProjectGuid>{939C1962-B915-46CA-A371-A1B7282EC5F2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Bulletinfini</RootNamespace>
     <AssemblyName>Bulletinfini</AssemblyName>
