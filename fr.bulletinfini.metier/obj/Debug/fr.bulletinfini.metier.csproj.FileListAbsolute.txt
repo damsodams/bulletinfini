@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe.config
 C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe
 C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.pdb
@@ -56,3 +57,52 @@ C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\Microsoft.Xaml.Beha
 C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\de\MahApps.Metro.resources.dll
 C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.CopyComplete
+=======
+<<<<<<< HEAD
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe.config
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.pdb
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\MainWindow.g.cs
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\App.g.cs
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.cache
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.lref
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\MainWindow.baml
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.g.resources
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.Properties.Resources.resources
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.GenerateResource.cache
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.CoreCompileInputs.cache
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.exe
+C:\Users\Damien\source\repos\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.pdb
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe.config
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.pdb
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csprojAssemblyReference.cache
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\MainWindow.g.cs
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\App.g.cs
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.cache
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.lref
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\MainWindow.baml
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.g.resources
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.Properties.Resources.resources
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.GenerateResource.cache
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.CoreCompileInputs.cache
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.exe
+C:\Users\Damien\Desktop\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.pdb
+=======
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe.config
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.exe
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\bin\Debug\fr.bulletinfini.metier.pdb
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csprojAssemblyReference.cache
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\MainWindow.g.cs
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\App.g.cs
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.cache
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier_MarkupCompile.lref
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\MainWindow.baml
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.g.resources
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.Properties.Resources.resources
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.GenerateResource.cache
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.csproj.CoreCompileInputs.cache
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.exe
+C:\laragon\www\bulletinfini\fr.bulletinfini.metier\obj\Debug\fr.bulletinfini.metier.pdb
+>>>>>>> master
+>>>>>>> master
