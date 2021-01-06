@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{70B17A38-632F-4178-9F86-6BAF7B1B0644}</ProjectGuid>
+    <ProjectGuid>{89E81501-6E05-4554-9846-4A7BB3A40E4C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>bulletinfini</RootNamespace>
-    <AssemblyName>bulletinfini</AssemblyName>
+    <RootNamespace>fr.bulletinfini.metier</RootNamespace>
+    <AssemblyName>fr.bulletinfini.metier</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -93,6 +93,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Class\" />
+    <Folder Include="Core\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
